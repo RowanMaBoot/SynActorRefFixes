@@ -1,0 +1,8 @@
+{
+  "Nickname": "RMB - Actor Reference Fixes",
+  "Visibility": "Exclude",
+  "OneLineDescription": "Backfills missing XLCN Data",
+  "LongDescription": "Backfills missing XLCN Data for Actors, and relevant locations",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": []
+}
