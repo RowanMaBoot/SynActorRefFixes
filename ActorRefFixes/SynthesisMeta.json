@@ -4,5 +4,13 @@
   "OneLineDescription": "Backfills missing XLCN Data",
   "LongDescription": "Backfills missing XLCN Data for Actors, and relevant locations",
   "PreferredAutoVersioning": "Default",
-  "RequiredMods": []
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimLE",
+    "SkyrimSE",
+    "SkyrimVR",
+    "EnderalLE",
+    "EnderalSE",
+    "SkyrimSEGog"
+  ]
 }
